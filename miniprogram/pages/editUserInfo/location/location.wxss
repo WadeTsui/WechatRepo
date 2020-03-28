@@ -1,0 +1,3 @@
+/* miniprogram/pages/editUserInfo/location/location.wxss */
+.location_title{margin-top:30rpx;}
+.location_text{ margin-right: 450rpx;}

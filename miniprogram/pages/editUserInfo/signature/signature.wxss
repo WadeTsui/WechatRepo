@@ -1,0 +1,4 @@
+/* miniprogram/pages/editUserInfo/signature/signature.wxss */
+/* input{ border:1px #b4b5b6 solid;height: 40px;} */
+input{ height: 40px;}
+.weui-cells__title{padding:10rpx; border-bottom: 1px #b4b5b6; display: flex; align-items: center;background-color: #F8F8F8;}
